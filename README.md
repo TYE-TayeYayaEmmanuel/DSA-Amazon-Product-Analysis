@@ -52,6 +52,10 @@ It contains product and review information scraped from Amazon product pages, in
 - Rating vs Discount Relationship: A slight negative correlation (-0.16) was observed between discount percentage and product rating, meaning deeper discounts do not - necessarily improve customer satisfaction.
 - Top Performing Products: The best-performing products were those that combined high ratings with a large number of reviews, making them standout items in both quality and popularity.
 
+### Data Analysis
+
+
+[Amazon Case Study Analysis.xlsb.xlsx](https://github.com/user-attachments/files/21320882/Amazon.Case.Study.Analysis.xlsb.xlsx)
 
 
 
